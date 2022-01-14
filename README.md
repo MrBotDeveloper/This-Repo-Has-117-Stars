@@ -1,4 +1,4 @@
-# Thanks !! to [@MaheshKmr9](https://github.com/MaheshKmr9) for 6th star ⭐.
+# Thanks !! to [@MaheshKmr9](https://github.com/MaheshKmr9) for 2nd fork 🍴.
 ---
 
 ## Last 6 stargazers :
@@ -17,12 +17,13 @@
 
 ---
 
-## Last 1 forkers :
+## Last 2 forkers :
 <details><summary></summary>
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
