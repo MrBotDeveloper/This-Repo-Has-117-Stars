@@ -1,4 +1,4 @@
-# Thanks !! to [@TgDeveloper99](https://github.com/TgDeveloper99) for 5th star ⭐.
+# Thanks !! to [@spandan114](https://github.com/spandan114) for 2nd fork 🍴.
 ---
 
 ## Last 5 stargazers :
@@ -16,12 +16,13 @@
 
 ---
 
-## Last 1 forkers :
+## Last 2 forkers :
 <details><summary></summary>
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/55044734?v=4'> | [@spandan114](https://github.com/spandan114) | 2 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
