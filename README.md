@@ -1,4 +1,4 @@
-# Thanks !! to [@random772](https://github.com/random772) for 8th star ⭐.
+# Thanks !! to [@random772](https://github.com/random772) for 3rd fork 🍴.
 ---
 
 ## Last 8 stargazers :
@@ -19,13 +19,14 @@
 
 ---
 
-## Last 2 forkers :
+## Last 3 forkers :
 <details><summary></summary>
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
