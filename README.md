@@ -1,4 +1,4 @@
-# Thanks !! to [@hiroultroid93819](https://github.com/hiroultroid93819) for 24th star ⭐.
+# Thanks !! to [@hiroultroid93819](https://github.com/hiroultroid93819) for 4th fork 🍴.
 ---
 
 ## Last 24 stargazers :
@@ -40,10 +40,10 @@
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 3 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 2 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 1 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 0 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 4 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
