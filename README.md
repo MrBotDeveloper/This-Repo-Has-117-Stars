@@ -1,4 +1,4 @@
-# Thanks !! to [@VIKASIND](https://github.com/VIKASIND) for 6th fork 🍴.
+# Thanks !! to [@VIKASIND](https://github.com/VIKASIND) for 27th star ⭐.
 ---
 
 ## Last 27 stargazers :
@@ -43,12 +43,12 @@
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 6 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 5 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 4 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
-| 5. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
-| 6. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 5 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 4 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 3 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 2 |
+| 5. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 1 |
+| 6. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 0 |
 
 </details>
 
