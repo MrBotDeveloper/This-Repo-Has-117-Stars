@@ -1,4 +1,4 @@
-# Thanks !! to [@S4TyEndRa](https://github.com/S4TyEndRa) for 32th star ⭐.
+# Thanks !! to [@Zadymkowicz](https://github.com/Zadymkowicz) for 10th fork 🍴.
 ---
 
 ## Last 30 stargazers :
@@ -41,20 +41,21 @@
 
 ---
 
-## Last 9 forkers :
+## Last 10 forkers :
 <details><summary></summary>
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/20133621?v=4'> | [@NitroFuN](https://github.com/NitroFuN) | 9 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 8 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 7 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 6 |
-| 5. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 5 |
-| 6. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 4 |
-| 7. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
-| 8. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
-| 9. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/67696395?v=4'> | [@Zadymkowicz](https://github.com/Zadymkowicz) | 10 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/20133621?v=4'> | [@NitroFuN](https://github.com/NitroFuN) | 9 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 8 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 7 |
+| 5. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 6 |
+| 6. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 5 |
+| 7. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 4 |
+| 8. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
+| 9. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
+| 10. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
