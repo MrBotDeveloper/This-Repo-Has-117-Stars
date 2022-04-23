@@ -1,4 +1,4 @@
-# Thanks !! to [@S4TyEndRa](https://github.com/S4TyEndRa) for 31th star ⭐.
+# Thanks !! to [@nyuszika7h](https://github.com/nyuszika7h) for 8th fork 🍴.
 ---
 
 ## Last 30 stargazers :
@@ -46,14 +46,14 @@
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 7 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 6 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 5 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 4 |
-| 5. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 3 |
-| 6. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 2 |
-| 7. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 1 |
-| 8. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 0 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 8 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 7 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 6 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 5 |
+| 5. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 4 |
+| 6. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 3 |
+| 7. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 2 |
+| 8. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 1 |
 
 </details>
 
