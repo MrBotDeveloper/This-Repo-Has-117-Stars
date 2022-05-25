@@ -1,4 +1,4 @@
-# Thanks !! to [@ItzKingz](https://github.com/ItzKingz) for 71th star ⭐.
+# Thanks !! to [@ItzKingz](https://github.com/ItzKingz) for 19th fork 🍴.
 ---
 
 ## Last 50 stargazers :
@@ -62,28 +62,29 @@
 
 ---
 
-## Last 17 forkers :
+## Last 18 forkers :
 <details><summary></summary>
 
 | No. | Profile Pic | Username | Fork Number 🍴 |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/105053471?v=4'> | [@Sharmaps1757](https://github.com/Sharmaps1757) | 18 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/100023533?v=4'> | [@omkar1003](https://github.com/omkar1003) | 17 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/104765453?v=4'> | [@youssefnasef](https://github.com/youssefnasef) | 16 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/105335749?v=4'> | [@spideyboyaman](https://github.com/spideyboyaman) | 15 |
-| 5. | <img src='https://avatars.githubusercontent.com/u/88897873?v=4'> | [@yadianluffy](https://github.com/yadianluffy) | 14 |
-| 6. | <img src='https://avatars.githubusercontent.com/u/62926341?v=4'> | [@a0v0](https://github.com/a0v0) | 13 |
-| 7. | <img src='https://avatars.githubusercontent.com/u/96438111?v=4'> | [@Gishankrishka2](https://github.com/Gishankrishka2) | 12 |
-| 8. | <img src='https://avatars.githubusercontent.com/u/91558902?v=4'> | [@rk134-hub](https://github.com/rk134-hub) | 11 |
-| 9. | <img src='https://avatars.githubusercontent.com/u/20133621?v=4'> | [@NitroFuN](https://github.com/NitroFuN) | 10 |
-| 10. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 9 |
-| 11. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 8 |
-| 12. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 7 |
-| 13. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 6 |
-| 14. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 5 |
-| 15. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 4 |
-| 16. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 3 |
-| 17. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 2 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/106221089?v=4'> | [@ItzKingz](https://github.com/ItzKingz) | 19 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/105053471?v=4'> | [@Sharmaps1757](https://github.com/Sharmaps1757) | 18 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/100023533?v=4'> | [@omkar1003](https://github.com/omkar1003) | 17 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/104765453?v=4'> | [@youssefnasef](https://github.com/youssefnasef) | 16 |
+| 5. | <img src='https://avatars.githubusercontent.com/u/105335749?v=4'> | [@spideyboyaman](https://github.com/spideyboyaman) | 15 |
+| 6. | <img src='https://avatars.githubusercontent.com/u/88897873?v=4'> | [@yadianluffy](https://github.com/yadianluffy) | 14 |
+| 7. | <img src='https://avatars.githubusercontent.com/u/62926341?v=4'> | [@a0v0](https://github.com/a0v0) | 13 |
+| 8. | <img src='https://avatars.githubusercontent.com/u/96438111?v=4'> | [@Gishankrishka2](https://github.com/Gishankrishka2) | 12 |
+| 9. | <img src='https://avatars.githubusercontent.com/u/91558902?v=4'> | [@rk134-hub](https://github.com/rk134-hub) | 11 |
+| 10. | <img src='https://avatars.githubusercontent.com/u/20133621?v=4'> | [@NitroFuN](https://github.com/NitroFuN) | 10 |
+| 11. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@nyuszika7h](https://github.com/nyuszika7h) | 9 |
+| 12. | <img src='https://avatars.githubusercontent.com/u/84174959?v=4'> | [@S4TyEndRa](https://github.com/S4TyEndRa) | 8 |
+| 13. | <img src='https://avatars.githubusercontent.com/u/66910428?v=4'> | [@VIKASIND](https://github.com/VIKASIND) | 7 |
+| 14. | <img src='https://avatars.githubusercontent.com/u/101307401?v=4'> | [@Tellyfun](https://github.com/Tellyfun) | 6 |
+| 15. | <img src='https://avatars.githubusercontent.com/u/102476142?v=4'> | [@hiroultroid93819](https://github.com/hiroultroid93819) | 5 |
+| 16. | <img src='https://avatars.githubusercontent.com/u/98212032?v=4'> | [@random772](https://github.com/random772) | 4 |
+| 17. | <img src='https://avatars.githubusercontent.com/u/97720718?v=4'> | [@MaheshKmr9](https://github.com/MaheshKmr9) | 3 |
+| 18. | <img src='https://avatars.githubusercontent.com/u/85005373?v=4'> | [@HerokuMods](https://github.com/HerokuMods) | 2 |
 
 </details>
 
