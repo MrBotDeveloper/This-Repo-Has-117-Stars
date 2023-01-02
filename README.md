@@ -95,4 +95,4 @@
 ---
 ### To see the magic 🧚‍♂️ try, to `Star` ⭐ or `Fork` 🍴 the repo.
 #### Made with ❤️ by [Mr. Developer](https://github.com/MrBotDeveloper)
-##### Hosted on [Heroku](https://heroku.com)
+##### Hosted on [Linode](https://www.linode.com/) 🖥
