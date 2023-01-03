@@ -56,7 +56,6 @@
 | 48. | <img src='https://avatars.githubusercontent.com/u/60040629?v=4'> | [@JD906](https://github.com/JD906) | 57 |
 | 49. | <img src='https://avatars.githubusercontent.com/u/95572329?v=4'> | [@git-itsjoel](https://github.com/git-itsjoel) | 56 |
 | 50. | <img src='https://avatars.githubusercontent.com/u/86429222?v=4'> | [@arun017s](https://github.com/arun017s) | 55 |
-| 51. | <img src='https://avatars.githubusercontent.com/u/66241829?v=4'> | [@AwayJob](https://github.com/AwayJob) | 54 |
 
 </details>
 
