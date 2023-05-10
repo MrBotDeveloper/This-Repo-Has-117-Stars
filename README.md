@@ -1,4 +1,4 @@
-# Thanks !! to [@hybridvamp](https://github.com/hybridvamp) for 107th star ⭐.
+# Thanks !! to [@hybridvamp](https://github.com/hybridvamp) for 106th star ⭐.
 ---
 
 ## Last 50 stargazers :
@@ -6,56 +6,56 @@
 
 | No. | Profile Pic | Username | Star Number ⭐ |
 | :---: | :---: | :---: | :---: |
-| 1. | <img src='https://avatars.githubusercontent.com/u/48980248?v=4'> | [@hybridvamp](https://github.com/hybridvamp) | 107 |
-| 2. | <img src='https://avatars.githubusercontent.com/u/94701539?v=4'> | [@DandyDrop](https://github.com/DandyDrop) | 106 |
-| 3. | <img src='https://avatars.githubusercontent.com/u/2102878?v=4'> | [@pascal-hofmann](https://github.com/pascal-hofmann) | 105 |
-| 4. | <img src='https://avatars.githubusercontent.com/u/73209315?v=4'> | [@saadman-galib](https://github.com/saadman-galib) | 104 |
-| 5. | <img src='https://avatars.githubusercontent.com/u/238114?v=4'> | [@lucciano](https://github.com/lucciano) | 103 |
-| 6. | <img src='https://avatars.githubusercontent.com/u/119828208?v=4'> | [@Hydra-sjz](https://github.com/Hydra-sjz) | 102 |
-| 7. | <img src='https://avatars.githubusercontent.com/u/107202816?v=4'> | [@its-truce](https://github.com/its-truce) | 101 |
-| 8. | <img src='https://avatars.githubusercontent.com/u/100820152?v=4'> | [@AzRyCb](https://github.com/AzRyCb) | 100 |
-| 9. | <img src='https://avatars.githubusercontent.com/u/121786009?v=4'> | [@dequate](https://github.com/dequate) | 99 |
-| 10. | <img src='https://avatars.githubusercontent.com/u/117648465?v=4'> | [@dkppg2](https://github.com/dkppg2) | 98 |
-| 11. | <img src='https://avatars.githubusercontent.com/u/67612593?v=4'> | [@BrydenIsNotSmart](https://github.com/BrydenIsNotSmart) | 97 |
-| 12. | <img src='https://avatars.githubusercontent.com/u/16763276?v=4'> | [@K4CZP3R](https://github.com/K4CZP3R) | 96 |
-| 13. | <img src='https://avatars.githubusercontent.com/u/45739963?v=4'> | [@didierganthier](https://github.com/didierganthier) | 95 |
-| 14. | <img src='https://avatars.githubusercontent.com/u/77569653?v=4'> | [@SamirPaul1](https://github.com/SamirPaul1) | 94 |
-| 15. | <img src='https://avatars.githubusercontent.com/u/48348029?v=4'> | [@xIMRANx](https://github.com/xIMRANx) | 93 |
-| 16. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@0xallie](https://github.com/0xallie) | 92 |
-| 17. | <img src='https://avatars.githubusercontent.com/u/55983182?v=4'> | [@yasirarism](https://github.com/yasirarism) | 91 |
-| 18. | <img src='https://avatars.githubusercontent.com/u/66245404?v=4'> | [@tovade](https://github.com/tovade) | 90 |
-| 19. | <img src='https://avatars.githubusercontent.com/u/81961690?v=4'> | [@dinesh-0602](https://github.com/dinesh-0602) | 89 |
-| 20. | <img src='https://avatars.githubusercontent.com/u/89954408?v=4'> | [@SunshroomChan](https://github.com/SunshroomChan) | 88 |
-| 21. | <img src='https://avatars.githubusercontent.com/u/109037713?v=4'> | [@Buivanan82](https://github.com/Buivanan82) | 87 |
-| 22. | <img src='https://avatars.githubusercontent.com/u/76533278?v=4'> | [@4amparaboy](https://github.com/4amparaboy) | 86 |
-| 23. | <img src='https://avatars.githubusercontent.com/u/57042741?v=4'> | [@Woomymy](https://github.com/Woomymy) | 85 |
-| 24. | <img src='https://avatars.githubusercontent.com/u/88822116?v=4'> | [@dgigantino](https://github.com/dgigantino) | 84 |
-| 25. | <img src='https://avatars.githubusercontent.com/u/53967726?v=4'> | [@supercrafter333](https://github.com/supercrafter333) | 83 |
-| 26. | <img src='https://avatars.githubusercontent.com/u/64813399?v=4'> | [@J1b1x](https://github.com/J1b1x) | 82 |
-| 27. | <img src='https://avatars.githubusercontent.com/u/26801154?v=4'> | [@CodsXBlastin](https://github.com/CodsXBlastin) | 81 |
-| 28. | <img src='https://avatars.githubusercontent.com/u/68734813?v=4'> | [@faded-ninja](https://github.com/faded-ninja) | 80 |
-| 29. | <img src='https://avatars.githubusercontent.com/u/47496465?v=4'> | [@Matze997](https://github.com/Matze997) | 79 |
-| 30. | <img src='https://avatars.githubusercontent.com/u/51480483?v=4'> | [@shizotoaster](https://github.com/shizotoaster) | 78 |
-| 31. | <img src='https://avatars.githubusercontent.com/u/28113262?v=4'> | [@xISRAPILx](https://github.com/xISRAPILx) | 77 |
-| 32. | <img src='https://avatars.githubusercontent.com/u/32965703?v=4'> | [@Ifera](https://github.com/Ifera) | 76 |
-| 33. | <img src='https://avatars.githubusercontent.com/u/50779115?v=4'> | [@ReversoDev](https://github.com/ReversoDev) | 75 |
-| 34. | <img src='https://avatars.githubusercontent.com/u/40144185?v=4'> | [@itsDkiller](https://github.com/itsDkiller) | 74 |
-| 35. | <img src='https://avatars.githubusercontent.com/u/34418030?v=4'> | [@HerryYT](https://github.com/HerryYT) | 73 |
-| 36. | <img src='https://avatars.githubusercontent.com/u/40790870?v=4'> | [@SpaceLeft](https://github.com/SpaceLeft) | 72 |
-| 37. | <img src='https://avatars.githubusercontent.com/u/16628342?v=4'> | [@DelxHQ](https://github.com/DelxHQ) | 71 |
-| 38. | <img src='https://avatars.githubusercontent.com/u/46083528?v=4'> | [@siddharthroy12](https://github.com/siddharthroy12) | 70 |
-| 39. | <img src='https://avatars.githubusercontent.com/u/75159744?v=4'> | [@Avyansh0001](https://github.com/Avyansh0001) | 69 |
-| 40. | <img src='https://avatars.githubusercontent.com/u/62464560?v=4'> | [@Illegal-Services](https://github.com/Illegal-Services) | 68 |
-| 41. | <img src='https://avatars.githubusercontent.com/u/90455659?v=4'> | [@akprivatebots](https://github.com/akprivatebots) | 67 |
-| 42. | <img src='https://avatars.githubusercontent.com/u/76171703?v=4'> | [@roushanagarwalla](https://github.com/roushanagarwalla) | 66 |
-| 43. | <img src='https://avatars.githubusercontent.com/u/26739205?v=4'> | [@AbdushukurRasulov](https://github.com/AbdushukurRasulov) | 65 |
-| 44. | <img src='https://avatars.githubusercontent.com/u/92579700?v=4'> | [@JohnWickKeanue](https://github.com/JohnWickKeanue) | 64 |
-| 45. | <img src='https://avatars.githubusercontent.com/u/85750096?v=4'> | [@JemonNazeer](https://github.com/JemonNazeer) | 63 |
-| 46. | <img src='https://avatars.githubusercontent.com/u/106221089?v=4'> | [@ItzKingz](https://github.com/ItzKingz) | 62 |
-| 47. | <img src='https://avatars.githubusercontent.com/u/32560442?v=4'> | [@mrdrivingduck](https://github.com/mrdrivingduck) | 61 |
-| 48. | <img src='https://avatars.githubusercontent.com/u/105053471?v=4'> | [@Sharmaps1757](https://github.com/Sharmaps1757) | 60 |
-| 49. | <img src='https://avatars.githubusercontent.com/u/87847004?v=4'> | [@Hesenovhuseyn](https://github.com/Hesenovhuseyn) | 59 |
-| 50. | <img src='https://avatars.githubusercontent.com/u/104765453?v=4'> | [@youssefnasef](https://github.com/youssefnasef) | 58 |
+| 1. | <img src='https://avatars.githubusercontent.com/u/48980248?v=4'> | [@hybridvamp](https://github.com/hybridvamp) | 106 |
+| 2. | <img src='https://avatars.githubusercontent.com/u/94701539?v=4'> | [@DandyDrop](https://github.com/DandyDrop) | 105 |
+| 3. | <img src='https://avatars.githubusercontent.com/u/2102878?v=4'> | [@pascal-hofmann](https://github.com/pascal-hofmann) | 104 |
+| 4. | <img src='https://avatars.githubusercontent.com/u/73209315?v=4'> | [@saadman-galib](https://github.com/saadman-galib) | 103 |
+| 5. | <img src='https://avatars.githubusercontent.com/u/238114?v=4'> | [@lucciano](https://github.com/lucciano) | 102 |
+| 6. | <img src='https://avatars.githubusercontent.com/u/119828208?v=4'> | [@Hydra-sjz](https://github.com/Hydra-sjz) | 101 |
+| 7. | <img src='https://avatars.githubusercontent.com/u/107202816?v=4'> | [@its-truce](https://github.com/its-truce) | 100 |
+| 8. | <img src='https://avatars.githubusercontent.com/u/100820152?v=4'> | [@AzRyCb](https://github.com/AzRyCb) | 99 |
+| 9. | <img src='https://avatars.githubusercontent.com/u/121786009?v=4'> | [@dequate](https://github.com/dequate) | 98 |
+| 10. | <img src='https://avatars.githubusercontent.com/u/117648465?v=4'> | [@dkppg2](https://github.com/dkppg2) | 97 |
+| 11. | <img src='https://avatars.githubusercontent.com/u/67612593?v=4'> | [@BrydenIsNotSmart](https://github.com/BrydenIsNotSmart) | 96 |
+| 12. | <img src='https://avatars.githubusercontent.com/u/16763276?v=4'> | [@K4CZP3R](https://github.com/K4CZP3R) | 95 |
+| 13. | <img src='https://avatars.githubusercontent.com/u/45739963?v=4'> | [@didierganthier](https://github.com/didierganthier) | 94 |
+| 14. | <img src='https://avatars.githubusercontent.com/u/77569653?v=4'> | [@SamirPaul1](https://github.com/SamirPaul1) | 93 |
+| 15. | <img src='https://avatars.githubusercontent.com/u/48348029?v=4'> | [@xIMRANx](https://github.com/xIMRANx) | 92 |
+| 16. | <img src='https://avatars.githubusercontent.com/u/482367?v=4'> | [@0xallie](https://github.com/0xallie) | 91 |
+| 17. | <img src='https://avatars.githubusercontent.com/u/55983182?v=4'> | [@yasirarism](https://github.com/yasirarism) | 90 |
+| 18. | <img src='https://avatars.githubusercontent.com/u/66245404?v=4'> | [@tovade](https://github.com/tovade) | 89 |
+| 19. | <img src='https://avatars.githubusercontent.com/u/81961690?v=4'> | [@dinesh-0602](https://github.com/dinesh-0602) | 88 |
+| 20. | <img src='https://avatars.githubusercontent.com/u/89954408?v=4'> | [@SunshroomChan](https://github.com/SunshroomChan) | 87 |
+| 21. | <img src='https://avatars.githubusercontent.com/u/109037713?v=4'> | [@Buivanan82](https://github.com/Buivanan82) | 86 |
+| 22. | <img src='https://avatars.githubusercontent.com/u/76533278?v=4'> | [@4amparaboy](https://github.com/4amparaboy) | 85 |
+| 23. | <img src='https://avatars.githubusercontent.com/u/57042741?v=4'> | [@Woomymy](https://github.com/Woomymy) | 84 |
+| 24. | <img src='https://avatars.githubusercontent.com/u/88822116?v=4'> | [@dgigantino](https://github.com/dgigantino) | 83 |
+| 25. | <img src='https://avatars.githubusercontent.com/u/53967726?v=4'> | [@supercrafter333](https://github.com/supercrafter333) | 82 |
+| 26. | <img src='https://avatars.githubusercontent.com/u/64813399?v=4'> | [@J1b1x](https://github.com/J1b1x) | 81 |
+| 27. | <img src='https://avatars.githubusercontent.com/u/26801154?v=4'> | [@CodsXBlastin](https://github.com/CodsXBlastin) | 80 |
+| 28. | <img src='https://avatars.githubusercontent.com/u/68734813?v=4'> | [@faded-ninja](https://github.com/faded-ninja) | 79 |
+| 29. | <img src='https://avatars.githubusercontent.com/u/47496465?v=4'> | [@Matze997](https://github.com/Matze997) | 78 |
+| 30. | <img src='https://avatars.githubusercontent.com/u/51480483?v=4'> | [@shizotoaster](https://github.com/shizotoaster) | 77 |
+| 31. | <img src='https://avatars.githubusercontent.com/u/28113262?v=4'> | [@xISRAPILx](https://github.com/xISRAPILx) | 76 |
+| 32. | <img src='https://avatars.githubusercontent.com/u/32965703?v=4'> | [@Ifera](https://github.com/Ifera) | 75 |
+| 33. | <img src='https://avatars.githubusercontent.com/u/50779115?v=4'> | [@ReversoDev](https://github.com/ReversoDev) | 74 |
+| 34. | <img src='https://avatars.githubusercontent.com/u/40144185?v=4'> | [@itsDkiller](https://github.com/itsDkiller) | 73 |
+| 35. | <img src='https://avatars.githubusercontent.com/u/34418030?v=4'> | [@HerryYT](https://github.com/HerryYT) | 72 |
+| 36. | <img src='https://avatars.githubusercontent.com/u/40790870?v=4'> | [@SpaceLeft](https://github.com/SpaceLeft) | 71 |
+| 37. | <img src='https://avatars.githubusercontent.com/u/16628342?v=4'> | [@DelxHQ](https://github.com/DelxHQ) | 70 |
+| 38. | <img src='https://avatars.githubusercontent.com/u/46083528?v=4'> | [@siddharthroy12](https://github.com/siddharthroy12) | 69 |
+| 39. | <img src='https://avatars.githubusercontent.com/u/75159744?v=4'> | [@Avyansh0001](https://github.com/Avyansh0001) | 68 |
+| 40. | <img src='https://avatars.githubusercontent.com/u/62464560?v=4'> | [@Illegal-Services](https://github.com/Illegal-Services) | 67 |
+| 41. | <img src='https://avatars.githubusercontent.com/u/90455659?v=4'> | [@akprivatebots](https://github.com/akprivatebots) | 66 |
+| 42. | <img src='https://avatars.githubusercontent.com/u/76171703?v=4'> | [@roushanagarwalla](https://github.com/roushanagarwalla) | 65 |
+| 43. | <img src='https://avatars.githubusercontent.com/u/26739205?v=4'> | [@AbdushukurRasulov](https://github.com/AbdushukurRasulov) | 64 |
+| 44. | <img src='https://avatars.githubusercontent.com/u/92579700?v=4'> | [@JohnWickKeanue](https://github.com/JohnWickKeanue) | 63 |
+| 45. | <img src='https://avatars.githubusercontent.com/u/85750096?v=4'> | [@JemonNazeer](https://github.com/JemonNazeer) | 62 |
+| 46. | <img src='https://avatars.githubusercontent.com/u/106221089?v=4'> | [@ItzKingz](https://github.com/ItzKingz) | 61 |
+| 47. | <img src='https://avatars.githubusercontent.com/u/32560442?v=4'> | [@mrdrivingduck](https://github.com/mrdrivingduck) | 60 |
+| 48. | <img src='https://avatars.githubusercontent.com/u/105053471?v=4'> | [@Sharmaps1757](https://github.com/Sharmaps1757) | 59 |
+| 49. | <img src='https://avatars.githubusercontent.com/u/87847004?v=4'> | [@Hesenovhuseyn](https://github.com/Hesenovhuseyn) | 58 |
+| 50. | <img src='https://avatars.githubusercontent.com/u/104765453?v=4'> | [@youssefnasef](https://github.com/youssefnasef) | 57 |
 
 </details>
 
